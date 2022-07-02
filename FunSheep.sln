@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FunSheep", "FunSheep.vbproj", "{703E500E-170A-4265-8378-0D60E36F5354}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{703E500E-170A-4265-8378-0D60E36F5354}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{703E500E-170A-4265-8378-0D60E36F5354}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{703E500E-170A-4265-8378-0D60E36F5354}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{703E500E-170A-4265-8378-0D60E36F5354}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEFBE92A-B64F-44AC-83E9-DDB8CA598025}
+	EndGlobalSection
+EndGlobal
