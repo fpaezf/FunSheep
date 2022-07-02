@@ -53,7 +53,6 @@ Partial Class Sheep
         '
         'Debug
         '
-        Me.Debug.Interval = 500
         '
         'Timer1
         '
