@@ -35,7 +35,7 @@ Esta aplicación es un pequeño tributo a los screenmates de antaño y a sus cre
 - La oveja reproduce balidos aleatoriamente (se puede desactivar).
 
 # APIs de Windows implementadas
-- GetWindowRectangle() <-- Substituye a GetWindowRect() porque obtiene el tamaño de la ventana sin sombras en Win10.<br>
+- GetWindowRectangle()<br>
 - DwmGetWindowAttribute()<br>
 - GetWindow()<br>
 - GetWindowText()<br>
@@ -43,6 +43,8 @@ Esta aplicación es un pequeño tributo a los screenmates de antaño y a sus cre
 - IsWindowVisible()<br>
 - EnumWindows()<br>
 - EnumWindowsDelegate()<br>
+
+* GetWindowRectangle() substituye a GetWindowRect() porque obtiene el tamaño de la ventana sin sombras en Win10.
 
 # Fallos conocidos
 - La colisión contra ventanas no es del todo correcta.
